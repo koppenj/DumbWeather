@@ -1,0 +1,20 @@
+
+#container {
+  padding-top: 1rem;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+#input-search {
+  width: 50vw;
+}
+
+div#data-numbers {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
